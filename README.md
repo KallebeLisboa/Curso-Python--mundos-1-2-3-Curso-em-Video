@@ -1,0 +1,1 @@
+Aulas e atividades feitas utilizando o canal Curso em Vídeo. Aulas ministradas pelo professor Gustavo Guanabara. Aulas seguida de lista de execícios todos feitos em python. O conteúdo é introdutório para linguagem Python
